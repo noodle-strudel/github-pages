@@ -1,8 +1,4 @@
 ---
-Yes: Welcome to my blog
-Things to do: clean
+title: Welcome to my blog
 ---
 
-# Git page!
-There are some things to cover
-## Creative
